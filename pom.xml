@@ -58,7 +58,8 @@
           </execution>
         </executions>
       </plugin>
-      <groupId>pl.allegro</groupId>
+     <plugin>
+         <groupId>pl.allegro</groupId>
         <artifactId>grunt-maven-plugin</artifactId>
         <version>1.4.1</version>
         <executions>
